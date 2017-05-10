@@ -1,3 +1,7 @@
+.audio-files {
+  display: none;
+}
+
 .keys-container {
   display: flex;
   justify-content: center;
